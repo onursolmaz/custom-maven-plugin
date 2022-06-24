@@ -1,0 +1,17 @@
+Project info: com.akbank spring-project 1.0-SNAPSHOT
+---Developers---
+0- Developer: Onur Solmaz
+1- Developer: Berna Solmaz
+Release Date: null
+---Dependencies---
+Dependency: junit.junit
+---Plugins---
+Plugin: summarizer
+Plugin: maven-clean-plugin
+Plugin: maven-resources-plugin
+Plugin: maven-jar-plugin
+Plugin: maven-compiler-plugin
+Plugin: maven-surefire-plugin
+Plugin: maven-install-plugin
+Plugin: maven-deploy-plugin
+Plugin: maven-site-plugin
